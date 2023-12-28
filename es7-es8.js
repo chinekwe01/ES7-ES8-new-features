@@ -12,6 +12,7 @@ const object = {
 // console.log(Object.values(object));
 
 // Object.entries
+console.log(Object.entries(object));
 
 // Async functions
 
